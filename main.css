@@ -1,0 +1,7 @@
+div {
+display: block;
+text-align: center;
+}
+div > span {
+font-weight: 800;
+}
